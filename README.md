@@ -38,4 +38,4 @@ Pour certifier l'étanchéité de l'infrastructure, j'ai réalisé :
 *   Production d'une documentation technique reproductible pour le déploiement sécurisé.
 
 ---
-[📄 Consulter le Rapport Technique Complet (PDF)](./docs/POC_CyberLimited_Franck_DEFFO.pdf)
+[📄 Consulter le Rapport Technique Complet (PDF)](./docs1/POC_CyberLimited_Franck_DEFFO.pdf)
